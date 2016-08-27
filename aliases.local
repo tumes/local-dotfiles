@@ -1,0 +1,8 @@
+alias gl="git log"
+alias gs="git status"
+alias bopen="bundle open"
+alias gitfu="git fetch upstream"
+alias gitmu="git merge upstream/master"
+alias cleanup='git branch --merged master | grep -v "\* master" | xargs -n 1 git branch -d'
+alias clearcache="echo 'flush_all' | nc localhost 11211"
+alias restartnginx="sudo nginx -s stop && sudo nginx"

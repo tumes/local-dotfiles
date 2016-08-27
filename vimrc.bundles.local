@@ -1,0 +1,4 @@
+Plug 'justinj/vim-pico8-syntax'
+Plug 'scrooloose/nerdtree'
+Plug 'scrooloose/nerdcommenter'
+Plug 'jiangmiao/auto-pairs'
