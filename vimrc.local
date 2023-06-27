@@ -22,3 +22,6 @@ set gdefault
 " Block movement
 nmap <tab> %
 vmap <tab> %
+
+set nowrap
+set clipboard=unnamed
